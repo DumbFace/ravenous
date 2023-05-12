@@ -13,3 +13,15 @@ const bussiness = {
     rating: 4.5,
     reviewCount: 90
 }
+
+
+function BusinessComponent(){
+    return (
+        <>
+            <h1>This is BusinessComponent</h1>
+        </>
+    );
+}
+
+
+export default BusinessComponent;
